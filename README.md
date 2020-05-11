@@ -4,6 +4,7 @@ A Cool Battleship Game for the Epic Gamer
 Written in C++
 
 compile with make and run with ./prog
+
 We recommend playing in a basic default themed terminal but with a black background :)
 
 Project 1 Retrospective Write-up for “Big SegFault Energy”
