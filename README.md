@@ -3,6 +3,8 @@ A Cool Battleship Game for the Epic Gamer
 
 Written in C++
 
+compile with make and run with ./prog
+
 Project 1 Retrospective Write-up for “Big SegFault Energy”
 
 
